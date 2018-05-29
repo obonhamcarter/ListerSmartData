@@ -1,2 +1,2 @@
 # ListerSmartData
-Data files associated with ListerSmart
+Data files associated with SmartLister
