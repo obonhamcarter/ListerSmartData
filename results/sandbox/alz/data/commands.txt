@@ -1,0 +1,5 @@
+#date: 28 April 2018
+
+Command to get alz and oxi links
+cat out_alzheimerss_functionalTypesAll.txt | grep oxi > alz_oxi.txt
+

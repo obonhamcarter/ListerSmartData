@@ -1,0 +1,8 @@
+carbonylation___heat_stress|protein|2
+heat_stress___toxins|protein|2
+carbonylation___protein_misfolding|protein|2
+carbonylation___unfolded_protein_response|protein|2
+carbonylation___toxins|protein|2
+protein_misfolding___toxins|protein|2
+toxins___unfolded_protein_response|protein|2
+carbonylation___protein_stress|protein|2

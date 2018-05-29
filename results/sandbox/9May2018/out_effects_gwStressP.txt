@@ -1,0 +1,5 @@
+atherogenic_&_carbonylation|effects|2
+carbonylation_&_radiation|effects|2
+radiation_&_unfolded_protein_stress|effects|2
+atherogenic_&_radiation|effects|2
+atherogenic_&_unfolded_protein_stress|effects|2

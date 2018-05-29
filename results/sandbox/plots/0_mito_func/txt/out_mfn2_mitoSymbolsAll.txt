@@ -1,0 +1,10 @@
+22292091|mfn2|metabolic_stress|apoptosis
+22292091|mfn2|stress|apoptosis
+24379352|mfn2|heat|obesity
+24379352|mfn2|heat_shock|obesity
+24898700|mfn2|reactive_oxygen_species|apoptosis
+24898700|mfn2|ros|apoptosis
+24987494|mfn2|oxidative_stress|aging
+24987494|mfn2|ros|aging
+24987494|mfn2|stress|aging
+27250023|mfn2|stress|apoptosis

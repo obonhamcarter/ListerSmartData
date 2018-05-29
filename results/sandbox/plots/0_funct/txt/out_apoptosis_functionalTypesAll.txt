@@ -1,0 +1,6 @@
+23251680|phosphoserine|apoptosis|atherosclerosis
+23984320|lactic_acid|apoptosis|toxins
+24747529|citrulline|apoptosis|radiation
+26875981|methionine_sulfoxide|apoptosis|oxidative_stress
+26875981|methionine_sulfoxide|apoptosis|stress
+27796318|lactic_acid|apoptosis|reactive_oxygen_species

@@ -1,0 +1,6 @@
+11222629|oxidation|methionine_sulfoxide|alzheimers
+11222629|oxidation|methionine_sulfoxide|parkinsons
+13630940|oxidation|thyroxine|aging
+20306235|oxidation|methionine_sulfoxide|aging
+23160531|oxidation|citrulline|diabetes
+26448611|oxidation|methionine_sulfoxide|obesity

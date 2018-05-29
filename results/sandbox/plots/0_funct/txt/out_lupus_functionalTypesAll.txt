@@ -1,0 +1,3 @@
+27409075|lactic_acid|lupus|pollutants
+27409075|lactic_acid|lupus|stress
+28424695|citrulline|lupus|tolerance

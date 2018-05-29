@@ -1,0 +1,4 @@
+27409075|pollutants|lactic_acid|aging
+27409075|pollutants|lactic_acid|diabetes
+27409075|pollutants|lactic_acid|lupus
+27409075|pollutants|lactic_acid|obesity

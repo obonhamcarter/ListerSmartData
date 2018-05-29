@@ -1,0 +1,7 @@
+24098680|tolerance|triiodothyronine|aging
+25277744|tolerance|thyroxine|diabetes
+25277744|tolerance|triiodothyronine|diabetes
+27199942|tolerance|lactic_acid|aging
+28123936|tolerance|citrulline|diabetes
+28424695|tolerance|citrulline|arthritis
+28424695|tolerance|citrulline|lupus

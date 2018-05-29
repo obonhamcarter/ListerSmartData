@@ -1,0 +1,2 @@
+anemia___cystic_fibrosis|patients_data|2
+anemia___dermatitis|patients_data|2

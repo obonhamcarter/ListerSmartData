@@ -1,0 +1,6 @@
+26981778|abcg1|radiation|apoptosis
+26981778|abcg1|stress|apoptosis
+25644384|abcg1|atherosclerosis|alzheimers
+28869506|abcg1|atherosclerosis|diabetes
+24972087|abcg1|atherosclerosis|apoptosis
+23990020|abcg1|stress|obesity

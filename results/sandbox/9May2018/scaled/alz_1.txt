@@ -1,0 +1,1041 @@
+22488900|stress|alzheimer's|embo molecular medicine
+20479943|oxidation|alzheimer's|plos one
+20479943|oxidative_stress|alzheimer's|plos one
+20479943|stress|alzheimer's|plos one
+23326794|free_radicals|alzheimer's|advanced biomedical research
+18661049|heat|alzheimer's|the scientific world j.
+28060896|oxidative_stress|alzheimer's|plos one
+28060896|stress|alzheimer's|plos one
+23577173|stress|alzheimer's|plos one
+21461357|reactive_oxygen_species|alzheimer's|international j. alzheimer's disease
+20838473|reactive_oxygen_species|alzheimer's|frontiers aging neuroscience
+20838473|tolerance|alzheimer's|frontiers aging neuroscience
+22611387|oxidative_stress|alzheimer's|current gerontology geriatrics research
+22611387|stress|alzheimer's|current gerontology geriatrics research
+23166730|oxidative_stress|alzheimer's|plos one
+23166730|stress|alzheimer's|plos one
+25469702|toxin|alzheimer's|plos one
+20716910|stress|alzheimer's|oxidative medicine cellular longevity
+22413000|stress|alzheimer's|plos one
+24072999|toxins|alzheimer's|international j. cell biology
+25206501|stress|alzheimer's|neural regeneration research
+25206509|oxidative_stress|alzheimer's|neural regeneration research
+25206509|stress|alzheimer's|neural regeneration research
+26301043|heat|alzheimer's|oxidative medicine cellular longevity
+26301043|heat_shock|alzheimer's|oxidative medicine cellular longevity
+26301043|stress|alzheimer's|oxidative medicine cellular longevity
+16515691|oxidative_stress|alzheimer's|j. neuroinflammation
+16515691|stress|alzheimer's|j. neuroinflammation
+26870803|stress|alzheimer's|ebiomedicine
+26870803|stress|alzheimer's|ebiomedicine
+22757958|oxidation|alzheimer's|clinical science (london, england : 1979)
+22757958|ros|alzheimer's|clinical science (london, england : 1979)
+18494939|stress|alzheimer's|j. cellular molecular medicine
+23480850|ischaemia|alzheimer's|j. cellular molecular medicine
+22523685|reactive_oxygen_species|alzheimer's|j. aging research
+23857120|hypoxia|alzheimer's|molecular psychiatry
+23857120|stress|alzheimer's|molecular psychiatry
+25874692|oxidative_stress|alzheimer's|plos one
+25874692|stress|alzheimer's|plos one
+21059265|stress|alzheimer's|molecular brain
+24741561|ischemia|alzheimer's|j. stroke
+25364287|oxidative_stress|alzheimer's|dialogues clinical neuroscience
+25364287|stress|alzheimer's|dialogues clinical neuroscience
+26693205|oxidative_stress|alzheimer's|mediators inflammation
+26693205|stress|alzheimer's|mediators inflammation
+29451200|oxidative_stress|alzheimer's|neural regeneration research
+29451200|stress|alzheimer's|neural regeneration research
+26472193|reactive_oxygen_species|alzheimer's|free radical biology & medicine
+28448946|oxidative_stress|alzheimer's|redox biology
+28448946|stress|alzheimer's|redox biology
+25654508|pollutants|alzheimer's|current alzheimer research
+24976855|ros|alzheimer's|evidence-based complementary alternative medicine : ecam
+25374890|heat|alzheimer's|biomed research international
+25374890|heat_shock|alzheimer's|biomed research international
+25374890|protein_misfolding|alzheimer's|biomed research international
+22530123|tolerance|alzheimer's|neurology research international
+27051562|oxidative_stress|alzheimer's|anatomy & cell biology
+27051562|stress|alzheimer's|anatomy & cell biology
+20157524|oxidative_stress|alzheimer's|aging
+20157524|stress|alzheimer's|aging
+27366738|oxidative_stress|alzheimer's|biomed research international
+27366738|pollutants|alzheimer's|biomed research international
+27366738|stress|alzheimer's|biomed research international
+26659252|oxidative_stress|alzheimer's|disease models & mechanisms
+26659252|stress|alzheimer's|disease models & mechanisms
+29403345|oxidative_stress|alzheimer's|frontiers neuroscience
+29403345|stress|alzheimer's|frontiers neuroscience
+26180583|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+26180583|stress|alzheimer's|oxidative medicine cellular longevity
+26991927|oxidative_stress|alzheimer's|j. cellular molecular medicine
+26991927|stress|alzheimer's|j. cellular molecular medicine
+26617481|hypoxia|alzheimer's|frontiers neuroscience
+26617481|ischaemia|alzheimer's|frontiers neuroscience
+23533697|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+23533697|stress|alzheimer's|oxidative medicine cellular longevity
+29034195|saline|alzheimer's|j. traditional complementary medicine
+19468659|oxidative_stress|alzheimer's|the scientific world j.
+19468659|stress|alzheimer's|the scientific world j.
+24688718|stress|alzheimer's|computational structural biotechnology j.
+25229015|oxidative_stress|alzheimer's|chonnam medical j.
+25229015|stress|alzheimer's|chonnam medical j.
+25009454|stress|alzheimer's|frontiers neuroscience
+26078824|heat|alzheimer's|oxidative medicine cellular longevity
+26078824|heat_shock|alzheimer's|oxidative medicine cellular longevity
+26078824|stress|alzheimer's|oxidative medicine cellular longevity
+21776259|reactive_nitrogen_species|alzheimer's|j. toxicology
+21776259|reactive_oxygen_species|alzheimer's|j. toxicology
+21776259|stress|alzheimer's|j. toxicology
+27906174|oxidative_stress|alzheimer's|cell death & disease
+27906174|stress|alzheimer's|cell death & disease
+22916096|oxidation|alzheimer's|plos one
+20049741|protein_misfolding|alzheimer's|embo molecular medicine
+27752081|stress|alzheimer's|molecular psychiatry
+27922637|stress|alzheimer's|translational psychiatry
+21547208|oxidative_stress|alzheimer's|international j. alzheimer's disease
+21547208|stress|alzheimer's|international j. alzheimer's disease
+27888180|stress|alzheimer's|bmj open
+26903790|stress|alzheimer's|frontiers neuroscience
+29507650|reactive_nitrogen_species|alzheimer's|oxidative medicine cellular longevity
+29507650|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+29507650|ros|alzheimer's|oxidative medicine cellular longevity
+26141728|saline|alzheimer's|acta neuropathologica communications
+28559789|heat|alzheimer's|frontiers neuroscience
+28559789|protein_misfolding|alzheimer's|frontiers neuroscience
+21909359|hypoxia|alzheimer's|plos one
+24174977|oxidation|alzheimer's|evidence-based complementary alternative medicine : ecam
+25184331|oxidation|alzheimer's|plos one
+25184331|stress|alzheimer's|plos one
+26781037|oxidative_stress|alzheimer's|aging cell
+26781037|stress|alzheimer's|aging cell
+26064418|ros|alzheimer's|oxidative medicine cellular longevity
+21922047|oxidative_stress|alzheimer's|international j. alzheimer's disease
+21922047|stress|alzheimer's|international j. alzheimer's disease
+29391926|ischemia|alzheimer's|oxidative medicine cellular longevity
+29391926|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+29391926|ros|alzheimer's|oxidative medicine cellular longevity
+29391926|ros|alzheimer's|oxidative medicine cellular longevity
+29391926|stress|alzheimer's|oxidative medicine cellular longevity
+23506529|oxidative_stress|alzheimer's|bmc medicine
+23506529|stress|alzheimer's|bmc medicine
+28446709|reactive_oxygen_species|alzheimer's|open biology
+29138799|oxidative_stress|alzheimer's|international j. molecular medicine
+29138799|stress|alzheimer's|international j. molecular medicine
+25740315|stress|alzheimer's|scientific reports
+29311797|heat|alzheimer's|frontiers neuroscience
+29311797|heat_shock|alzheimer's|frontiers neuroscience
+24618582|protein_misfolding|alzheimer's|plos one
+22888398|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+22888398|stress|alzheimer's|oxidative medicine cellular longevity
+9788902|oxidative_stress|alzheimer's|environmental health perspectives
+9788902|stress|alzheimer's|environmental health perspectives
+23155407|saline|alzheimer's|plos one
+29535623|reactive_oxygen_species|alzheimer's|frontiers aging neuroscience
+29535623|ros|alzheimer's|frontiers aging neuroscience
+29535623|ros|alzheimer's|frontiers aging neuroscience
+26413126|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+26413126|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+20862344|stress|alzheimer's|international j. alzheimer's disease
+28704727|oxidative_stress|alzheimer's|redox biology
+28704727|stress|alzheimer's|redox biology
+23840922|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+23840922|stress|alzheimer's|oxidative medicine cellular longevity
+29249928|oxidation|alzheimer's|frontiers neuroscience
+28116038|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+28116038|stress|alzheimer's|oxidative medicine cellular longevity
+26092526|protein_misfolding|alzheimer's|disease models & mechanisms
+25834699|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+25834699|ros|alzheimer's|oxidative medicine cellular longevity
+25834699|stress|alzheimer's|oxidative medicine cellular longevity
+24454987|oxidation|alzheimer's|oxidative medicine cellular longevity
+24454987|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+24454987|stress|alzheimer's|oxidative medicine cellular longevity
+17047312|stress|alzheimer's|j. biomedicine biotechnology
+22500245|stress|alzheimer's|international j. alzheimer's disease
+28031870|protein_misfolding|alzheimer's|future science oa
+22433906|stress|alzheimer's|behavioral brain functions : bbf
+28442988|stress|alzheimer's|frontiers neuroscience
+26894958|stress|alzheimer's|elife
+22666521|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+20161760|stress|alzheimer's|plos one
+22174920|oxidative_stress|alzheimer's|plos one
+22174920|protein_misfolding|alzheimer's|plos one
+22174920|ros|alzheimer's|plos one
+22174920|stress|alzheimer's|plos one
+22701481|toxins|alzheimer's|j. toxicology
+21738757|oxidative_stress|alzheimer's|plos one
+21738757|stress|alzheimer's|plos one
+27378236|cold|alzheimer's|molecular therapy
+23049978|oxidative_stress|alzheimer's|plos one
+23049978|stress|alzheimer's|plos one
+22666621|reactive_oxygen_species|alzheimer's|international j. alzheimer's disease
+16174294|ros|alzheimer's|j. neuroinflammation
+24632812|stress|alzheimer's|plos one
+22900228|hypoxia|alzheimer's|international j. alzheimer's disease
+22900228|ischemia|alzheimer's|international j. alzheimer's disease
+21368882|stress|alzheimer's|cell death & disease
+25853906|oxidative_stress|alzheimer's|j. cerebral blood flow & metabolism
+25853906|stress|alzheimer's|j. cerebral blood flow & metabolism
+28928905|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+28928905|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+28928905|stress|alzheimer's|oxidative medicine cellular longevity
+27774420|oxidative_stress|alzheimer's|j. traditional complementary medicine
+27774420|reactive_oxygen_species|alzheimer's|j. traditional complementary medicine
+27774420|ros|alzheimer's|j. traditional complementary medicine
+27774420|stress|alzheimer's|j. traditional complementary medicine
+24891994|stress|alzheimer's|global advances health medicine
+24891994|unfolded_protein_response|alzheimer's|global advances health medicine
+22829964|stress|alzheimer's|oxidative medicine cellular longevity
+29511612|reactive_oxygen_species|alzheimer's|febs open bio
+29511612|stress|alzheimer's|febs open bio
+27929541|stress|alzheimer's|cell death & disease
+22956959|free_radicals|alzheimer's|international j. cell biology
+22956959|reactive_nitrogen_species|alzheimer's|international j. cell biology
+22956959|reactive_oxygen_species|alzheimer's|international j. cell biology
+22956959|stress|alzheimer's|international j. cell biology
+23908553|radiation|alzheimer's|j. radiation research
+23908553|radiation|alzheimer's|j. radiation research
+24069503|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+24069503|ros|alzheimer's|oxidative medicine cellular longevity
+24069503|stress|alzheimer's|oxidative medicine cellular longevity
+29081887|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+19243613|oxidative_stress|alzheimer's|molecular neurodegeneration
+19243613|stress|alzheimer's|molecular neurodegeneration
+15500684|oxidative_stress|alzheimer's|j. neuroinflammation
+15500684|stress|alzheimer's|j. neuroinflammation
+19551139|stress|alzheimer's|plos one
+21589762|atherosclerosis|alzheimer's|research pharmaceutical sciences
+26483636|oxidation|alzheimer's|frontiers cellular neuroscience
+23320126|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+23320126|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+23320126|ros|alzheimer's|oxidative medicine cellular longevity
+23320126|stress|alzheimer's|oxidative medicine cellular longevity
+27259247|stress|alzheimer's|oncotarget
+26124853|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+17704129|stress|alzheimer's|nucleic acids research
+17760844|stress|alzheimer's|j. cellular molecular medicine
+24828380|reactive_oxygen_species|alzheimer's|scientific reports
+24828380|ros|alzheimer's|scientific reports
+21197086|oxidative_stress|alzheimer's|international j. alzheimer's disease
+21197086|stress|alzheimer's|international j. alzheimer's disease
+21423548|stress|alzheimer's|j. aging research
+28768717|stress|alzheimer's|the embo j.
+25944987|oxidative_stress|alzheimer's|mediators inflammation
+25944987|reactive_oxygen_species|alzheimer's|mediators inflammation
+25944987|ros|alzheimer's|mediators inflammation
+25944987|stress|alzheimer's|mediators inflammation
+28116245|reactive_oxygen_species|alzheimer's|molecular genetics metabolism reports
+28116245|ros|alzheimer's|molecular genetics metabolism reports
+28116245|ros|alzheimer's|molecular genetics metabolism reports
+28116245|stress|alzheimer's|molecular genetics metabolism reports
+23554879|heat|alzheimer's|plos one
+23554879|heat_shock|alzheimer's|plos one
+18843265|stress|alzheimer's|neuropsychopharmacology : official publication american college neuropsychopharmacology
+21559427|hypoxia|alzheimer's|plos one
+29535565|heat|alzheimer's|experimental neurobiology
+29535565|heat_shock|alzheimer's|experimental neurobiology
+17549234|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+17549234|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+27325640|radiation|alzheimer's|j. radiation research
+27325640|reactive_oxygen_species|alzheimer's|j. radiation research
+27325640|ros|alzheimer's|j. radiation research
+25861567|oxidation|alzheimers|chemistryopen
+28781901|stress|alzheimer's|neural plasticity
+29257339|reactive_oxygen_species|alzheimer's|molecular medicine reports
+25206627|reactive_oxygen_species|alzheimer's|neural regeneration research
+17094809|free_radicals|alzheimer's|j. neuroinflammation
+17094809|oxidative_stress|alzheimer's|j. neuroinflammation
+17094809|reactive_oxygen_species|alzheimer's|j. neuroinflammation
+17094809|stress|alzheimer's|j. neuroinflammation
+25386560|heat|alzheimer's|biomed research international
+25386560|heat_shock|alzheimer's|biomed research international
+25386560|protein_misfolding|alzheimer's|biomed research international
+23533305|stress|alzheimer's|mediators inflammation
+22655213|heat|alzheimer's|international j. alzheimer's disease
+22655213|reactive_oxygen_species|alzheimer's|international j. alzheimer's disease
+22655213|stress|alzheimer's|international j. alzheimer's disease
+22655213|tolerance|alzheimer's|international j. alzheimer's disease
+22655213|heat|alzheimer's|international j. alzheimer's disease
+22655213|reactive_oxygen_species|alzheimer's|international j. alzheimer's disease
+22655213|stress|alzheimer's|international j. alzheimer's disease
+22655213|tolerance|alzheimer's|international j. alzheimer's disease
+29238386|reactive_oxygen_species|alzheimer's|evidence-based complementary alternative medicine : ecam
+28473320|hypoxia|alzheimer's|physiological reports
+28473320|oxidative_stress|alzheimer's|physiological reports
+28473320|stress|alzheimer's|physiological reports
+24335747|environmental_toxins|alzheimer's|j. visualized experiments : jove
+24335747|toxins|alzheimer's|j. visualized experiments : jove
+26632816|ischemia|alzheimer's|plos one
+26632816|oxidative_stress|alzheimer's|plos one
+26632816|stress|alzheimer's|plos one
+24336499|oxidative_stress|alzheimer's|scientific reports
+24336499|stress|alzheimer's|scientific reports
+25977746|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+22235318|oxidative_stress|alzheimer's|plos one
+22235318|reactive_oxygen_species|alzheimer's|plos one
+22235318|ros|alzheimer's|plos one
+22235318|ros|alzheimer's|plos one
+22235318|ros|alzheimer's|plos one
+22235318|stress|alzheimer's|plos one
+26186010|oxidative_stress|alzheimer's|plos one
+26186010|stress|alzheimer's|plos one
+28861496|stress|alzheimer's|cannabis cannabinoid research
+28265338|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+28265338|stress|alzheimer's|oxidative medicine cellular longevity
+22649448|atherosclerosis|alzheimer's|current gerontology geriatrics research
+28928628|stress|alzheimer's|frontiers neuroscience
+23826334|heat|alzheimer's|plos one
+23826334|stress|alzheimer's|plos one
+20442827|cold|alzheimer's|indian j. occupational environmental medicine
+20442827|heat|alzheimer's|indian j. occupational environmental medicine
+25973139|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+25973139|stress|alzheimer's|oxidative medicine cellular longevity
+24324497|protein_misfolding|alzheimer's|international j. cell biology
+21772670|atherosclerosis|alzheimer's|mediators inflammation
+21772670|oxidation|alzheimer's|mediators inflammation
+15826313|oxidative_stress|alzheimer's|nutrition j.
+15826313|stress|alzheimer's|nutrition j.
+29115393|oxidative_stress|alzheimer's|international j. molecular medicine
+29115393|reactive_oxygen_species|alzheimer's|international j. molecular medicine
+29115393|stress|alzheimer's|international j. molecular medicine
+25206892|oxidative_stress|alzheimer's|neural regeneration research
+25206892|stress|alzheimer's|neural regeneration research
+25698445|reactive_oxygen_species|alzheimer's|cell death differentiation
+27445799|stress|alzheimer's|frontiers aging neuroscience
+28849115|reactive_oxygen_species|alzheimer's|molecular medicine reports
+28849115|ros|alzheimer's|molecular medicine reports
+24058919|stress|alzheimer's|biomed research international
+21799823|oxidative_stress|alzheimer's|plos one
+21799823|stress|alzheimer's|plos one
+29286102|oxidative_stress|alzheimer's|international j. molecular medicine
+29286102|stress|alzheimer's|international j. molecular medicine
+24455696|ros|alzheimer's|biomed research international
+19090990|oxidative_stress|alzheimer's|bmc neuroscience
+19090990|stress|alzheimer's|bmc neuroscience
+29348770|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+29348770|reactive_oxygen_species|alzheimer's|evidence-based complementary alternative medicine : ecam
+29348770|ros|alzheimer's|evidence-based complementary alternative medicine : ecam
+29348770|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+19825160|stress|alzheimer's|bmc medical genetics
+28974977|free_radicals|alzheimer's|research pharmaceutical sciences
+28974977|reactive_oxygen_species|alzheimer's|research pharmaceutical sciences
+28974977|ros|alzheimer's|research pharmaceutical sciences
+27904610|pollutants|alzheimer's|j. research medical sciences : official j. isfahan university medical sciences
+29234436|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+29234436|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+24971942|ischemia|alzheimer's|plos one
+20552050|stress|alzheimer's|frontiers aging neuroscience
+21949792|oxidation|alzheimer's|plos one
+28515545|stress|alzheimer's|indian j. psychological medicine
+22417924|oxidative_stress|alzheimer's|experimental neurology
+22417924|reactive_oxygen_species|alzheimer's|experimental neurology
+22417924|stress|alzheimer's|experimental neurology
+25617315|stress|alzheimer's|embo molecular medicine
+22114680|saline|alzheimer's|plos one
+27829867|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+19891782|ros|alzheimer's|j. biomedical science
+19891782|stress|alzheimer's|j. biomedical science
+25407270|ischemia|alzheimer's|j. cerebral blood flow & metabolism
+25505579|reactive_oxygen_species|alzheimer's|pharmacology research & perspectives
+27556046|reactive_oxygen_species|alzheimer's|biomed research international
+27556046|stress|alzheimer's|biomed research international
+25206847|reactive_oxygen_species|alzheimer's|neural regeneration research
+25538817|ros|alzheimer's|oxidative medicine cellular longevity
+23554783|saline|alzheimer's|j. biomedical research
+20035627|stress|alzheimer's|j. neuroinflammation
+20035627|unfolded_protein_response|alzheimer's|j. neuroinflammation
+25774181|reactive_oxygen_species|alzheimer's|neural regeneration research
+26389117|hyperthermia|alzheimer's|frontiers cell developmental biology
+24382959|atherosclerosis|alzheimer's|current gerontology geriatrics research
+29464060|oxidative_stress|alzheimer's|oncotarget
+29464060|stress|alzheimer's|oncotarget
+27340665|oxidative_stress|alzheimer's|biomed research international
+27340665|stress|alzheimer's|biomed research international
+26890139|ros|alzheimer's|cell death & disease
+28567323|ros|alzheimer's|international j. alzheimer's disease
+22046282|reactive_oxygen_species|alzheimer's|plos one
+22046282|ros|alzheimer's|plos one
+22046282|stress|alzheimer's|plos one
+25399685|oxidative_stress|alzheimer's|aging cell
+25399685|protein_stress|alzheimer's|aging cell
+25399685|stress|alzheimer's|aging cell
+26791617|toxin|alzheimer's|proceedings royal society b: biological sciences
+17047305|oxidation|alzheimer's|j. biomedicine biotechnology
+25272163|reactive_oxygen_species|alzheimer's|plos one
+20927324|unfolded_protein_response|alzheimer's|plos one
+15837797|oxidative_stress|alzheimer's|the j. cell biology
+15837797|stress|alzheimer's|the j. cell biology
+18581581|atherosclerosis|alzheimer's|yonsei medical j.
+25431764|heat|alzheimer's|biomed research international
+25431764|protein_misfolding|alzheimer's|biomed research international
+29636850|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+29636850|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+29636850|stress|alzheimer's|oxidative medicine cellular longevity
+29636850|stress|alzheimer's|oxidative medicine cellular longevity
+23350037|heat|alzheimer's|scientific reports
+23326437|stress|alzheimer's|plos one
+21253592|stress|alzheimer's|plos one
+26316986|oxidative_stress|alzheimer's|j. neurodegenerative diseases
+26316986|stress|alzheimer's|j. neurodegenerative diseases
+18694499|unfolded_protein_response|alzheimer's|bmc cancer
+15546489|oxidation|alzheimer's|j. neuroinflammation
+15546489|oxidation|alzheimer's|j. neuroinflammation
+20981262|oxidative_stress|alzheimer's|international j. alzheimer's disease
+20981262|stress|alzheimer's|international j. alzheimer's disease
+28098162|stress|alzheimer's|nature communications
+28228816|oxidative_stress|alzheimer's|iranian j. pharmaceutical research : ijpr
+28228816|ros|alzheimer's|iranian j. pharmaceutical research : ijpr
+28228816|stress|alzheimer's|iranian j. pharmaceutical research : ijpr
+29344304|atherosclerosis|alzheimer's|theranostics
+27826423|oxidative_stress|alzheimer's|medical gas research
+27826423|stress|alzheimer's|medical gas research
+27604401|oxidative_stress|alzheimer's|physiological reports
+27604401|reactive_nitrogen_species|alzheimer's|physiological reports
+27604401|stress|alzheimer's|physiological reports
+25379464|oxidative_stress|alzheimer's|j. traditional complementary medicine
+25379464|stress|alzheimer's|j. traditional complementary medicine
+19090995|heat|alzheimer's|bmc neuroscience
+19090995|heat_shock|alzheimer's|bmc neuroscience
+19090994|stress|alzheimer's|bmc neuroscience
+19090996|reactive_oxygen_species|alzheimer's|bmc neuroscience
+19090996|ros|alzheimer's|bmc neuroscience
+19090996|ros|alzheimer's|bmc neuroscience
+19090996|ros|alzheimer's|bmc neuroscience
+19090996|ros|alzheimer's|bmc neuroscience
+27708245|radiation|alzheimer's|oncotarget
+25741591|oxidation|alzheimer's|cell death & disease
+28951883|oxidative_stress|alzheimer's|alzheimer's & dementia : diagnosis, assessment & disease monitoring
+28951883|stress|alzheimer's|alzheimer's & dementia : diagnosis, assessment & disease monitoring
+27134467|oxidative_stress|alzheimer's|j. pharmacy & bioallied sciences
+27134467|stress|alzheimer's|j. pharmacy & bioallied sciences
+29322008|oxidative_stress|alzheimer's|j. traditional complementary medicine
+29322008|saline|alzheimer's|j. traditional complementary medicine
+29322008|stress|alzheimer's|j. traditional complementary medicine
+21697951|free_radicals|alzheimer's|cell death & disease
+21188175|oxidative_stress|alzheimer's|international j. alzheimer's disease
+21188175|reactive_oxygen_species|alzheimer's|international j. alzheimer's disease
+21188175|stress|alzheimer's|international j. alzheimer's disease
+23738020|atherosclerosis|alzheimer's|plos one
+23738020|toxin|alzheimer's|plos one
+28386548|oxidative_stress|alzheimer's|biomed research international
+28386548|stress|alzheimer's|biomed research international
+25766616|protein_misfolding|alzheimer's|experimental & molecular medicine
+25089827|saline|alzheimer's|plos one
+25089827|saline|alzheimer's|plos one
+17641741|reactive_oxygen_species|alzheimer's|experimental diabetes research
+17641741|ros|alzheimer's|experimental diabetes research
+17641741|ros|alzheimer's|experimental diabetes research
+29234427|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+29234427|reactive_oxygen_species|alzheimer's|evidence-based complementary alternative medicine : ecam
+29234427|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+23864927|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+23936615|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+23936615|stress|alzheimer's|oxidative medicine cellular longevity
+22523504|oxidative_stress|alzheimer's|j. environmental public health
+22523504|stress|alzheimer's|j. environmental public health
+22523504|toxins|alzheimer's|j. environmental public health
+24273493|stress|alzheimer's|frontiers cellular neuroscience
+29113362|reactive_oxygen_species|alzheimer's|oncotarget
+27199654|oxidative_stress|alzheimer's|frontiers molecular neuroscience
+27199654|stress|alzheimer's|frontiers molecular neuroscience
+20863403|hypoxia|alzheimer's|molecular neurodegeneration
+20863403|ischemia|alzheimer's|molecular neurodegeneration
+28261376|oxidation|alzheimer's|oxidative medicine cellular longevity
+29311898|atherosclerosis|alzheimer's|frontiers aging neuroscience
+21297982|stress|alzheimer's|plos one
+20184726|atherosclerosis|alzheimer's|bmc medical genetics
+29358166|protein_misfolding|alzheimer's|biology open
+28008308|stress|alzheimer's|frontiers molecular neuroscience
+23386811|reactive_oxygen_species|alzheimer's|frontiers cellular neuroscience
+11901170|oxidative_stress|alzheimer's|the j. cell biology
+11901170|stress|alzheimer's|the j. cell biology
+28785371|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+28785371|ros|alzheimer's|oxidative medicine cellular longevity
+28785371|ros|alzheimer's|oxidative medicine cellular longevity
+22919440|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+22919440|stress|alzheimer's|oxidative medicine cellular longevity
+20798885|stress|alzheimer's|international j. alzheimer's disease
+26942016|oxidative_stress|alzheimer's|neural plasticity
+26942016|stress|alzheimer's|neural plasticity
+18178006|stress|alzheimer's|neuroscience letters
+18178006|tolerance|alzheimer's|neuroscience letters
+21854604|oxidative_stress|alzheimer's|molecular neurodegeneration
+21854604|stress|alzheimer's|molecular neurodegeneration
+20661453|ischemia|alzheimer's|frontiers neuroscience
+25372040|protein_misfolding|alzheimer's|plos one
+25076902|reactive_oxygen_species|alzheimer's|frontiers aging neuroscience
+25948959|free_radicals|alzheimer's|toxicology international
+21355047|stress|alzheimer's|human molecular genetics
+27588134|oxidative_stress|alzheimer's|oncology letters
+27588134|saline|alzheimer's|oncology letters
+27588134|stress|alzheimer's|oncology letters
+20798852|heat|alzheimer's|international j. alzheimer's disease
+20981353|oxidative_stress|alzheimer's|international j. alzheimer's disease
+20981353|stress|alzheimer's|international j. alzheimer's disease
+25797965|stress|alzheimer's|nagoya j. medical science
+25044840|oxidative_stress|alzheimer's|j. mass spectrometry
+25044840|reactive_oxygen_species|alzheimer's|j. mass spectrometry
+25044840|ros|alzheimer's|j. mass spectrometry
+25044840|stress|alzheimer's|j. mass spectrometry
+22195039|oxidative_stress|alzheimer's|plos one
+22195039|stress|alzheimer's|plos one
+22140425|toxins|alzheimer's|plos one
+27597947|reactive_oxygen_species|alzheimer's|frontiers molecular biosciences
+27597947|ros|alzheimer's|frontiers molecular biosciences
+27110325|ros|alzheimer's|oxidative medicine cellular longevity
+23118496|stress|alzheimer's|j. biomedicine biotechnology
+24949424|oxidative_stress|alzheimer's|biomed research international
+24949424|stress|alzheimer's|biomed research international
+28656154|oxidative_stress|alzheimer's|j. diabetes research
+28656154|stress|alzheimer's|j. diabetes research
+22872779|radiation|alzheimer's|j. radiation research
+20003262|oxidative_stress|alzheimer's|j. neuroinflammation
+20003262|stress|alzheimer's|j. neuroinflammation
+26576216|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+26576216|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+26576216|stress|alzheimer's|oxidative medicine cellular longevity
+21483850|cold|alzheimer's|plos one
+27686535|reactive_oxygen_species|alzheimer's|aging cell
+27686535|stress|alzheimer's|aging cell
+24141843|oxidation|alzheimer's|clinics
+25401157|oxidation|alzheimer's|the scientific world j.
+24595055|heat|alzheimer's|plos one
+24595055|heat_shock|alzheimer's|plos one
+27920671|stress|alzheimer's|frontiers integrative neuroscience
+27456536|oxidative_stress|alzheimer's|j. cellular molecular medicine
+27456536|stress|alzheimer's|j. cellular molecular medicine
+26075104|oxidative_stress|alzheimer's|neural plasticity
+26075104|stress|alzheimer's|neural plasticity
+25361083|reactive_oxygen_species|alzheimer's|cell death differentiation
+26543520|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+26543520|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+26543520|ros|alzheimer's|oxidative medicine cellular longevity
+26543520|stress|alzheimer's|oxidative medicine cellular longevity
+24734229|oxidative_stress|alzheimer's|biomed research international
+24734229|stress|alzheimer's|biomed research international
+20454453|oxidative_stress|alzheimer's|plos one
+20454453|stress|alzheimer's|plos one
+22276093|oxidative_stress|alzheimer's|plos one
+22276093|stress|alzheimer's|plos one
+28693132|oxidative_stress|alzheimer's|oncology letters
+28693132|stress|alzheimer's|oncology letters
+18500954|oxidation|alzheimer's|j. international society sports nutrition
+18500954|oxidation|alzheimer's|j. international society sports nutrition
+18500954|oxidative_stress|alzheimer's|j. international society sports nutrition
+18500954|oxidative_stress|alzheimer's|j. international society sports nutrition
+18500954|stress|alzheimer's|j. international society sports nutrition
+26174783|free_radicals|alzheimer's|j. clinical neurology (seoul, korea)
+29179108|stress|alzheimer's|redox biology
+29317984|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+29317984|stress|alzheimer's|oxidative medicine cellular longevity
+28912681|stress|alzheimer's|frontiers molecular neuroscience
+24900954|reactive_oxygen_species|alzheimer's|biomed research international
+24900954|ros|alzheimer's|biomed research international
+18716656|saline|alzheimer's|plos one
+27335564|oxidative_stress|alzheimer's|neural regeneration research
+27335564|stress|alzheimer's|neural regeneration research
+22754566|radiation|alzheimer's|international j. endocrinology
+29311975|atherosclerosis|alzheimer's|frontiers physiology
+26673529|carbonylation|alzheimer's|bba clinical
+26673529|oxidation|alzheimer's|bba clinical
+26673529|stress|alzheimer's|bba clinical
+23497276|reactive_oxygen_species|alzheimer's|bmc neuroscience
+26740784|oxidation|alzheimer's|biotechnology, biotechnological equipment
+26740784|oxidative_stress|alzheimer's|biotechnology, biotechnological equipment
+26740784|stress|alzheimer's|biotechnology, biotechnological equipment
+16674804|oxidative_stress|alzheimer's|behavioral brain functions
+16674804|stress|alzheimer's|behavioral brain functions
+25817254|free_radicals|alzheimer's|current alzheimer research
+25817254|oxidative_stress|alzheimer's|current alzheimer research
+25817254|stress|alzheimer's|current alzheimer research
+25008537|protein_misfolding|alzheimer's|scientific reports
+26316992|atherosclerosis|alzheimer's|j. neurodegenerative diseases
+26261796|oxidative_stress|alzheimer's|international j. molecular cellular medicine
+26261796|stress|alzheimer's|international j. molecular cellular medicine
+29152258|oxidative_stress|alzheimer's|j. nutritional science
+29152258|reactive_oxygen_species|alzheimer's|j. nutritional science
+29152258|stress|alzheimer's|j. nutritional science
+27034843|oxidative_stress|alzheimer's|neural plasticity
+27034843|reactive_oxygen_species|alzheimer's|neural plasticity
+27034843|ros|alzheimer's|neural plasticity
+27034843|stress|alzheimer's|neural plasticity
+27034847|stress|alzheimer's|neural plasticity
+25644384|atherosclerosis|alzheimer's|molecular psychiatry
+23750207|oxidative_stress|alzheimer's|plos one
+23750207|stress|alzheimer's|plos one
+24741275|oxidative_stress|alzheimer's|j. pharmacy & bioallied sciences
+24741275|stress|alzheimer's|j. pharmacy & bioallied sciences
+22619696|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+22619696|stress|alzheimer's|oxidative medicine cellular longevity
+25852488|stress|alzheimer's|frontiers neuroanatomy
+28593141|stress|alzheimer's|febs open bio
+28593141|toxin|alzheimer's|febs open bio
+29491385|reactive_oxygen_species|alzheimer's|cell death & disease
+21541279|hypoxia|alzheimer's|plos one
+21541279|reactive_oxygen_species|alzheimer's|plos one
+22539924|stress|alzheimer's|frontiers aging neuroscience
+26889223|saline|alzheimer's|experimental therapeutic medicine
+24684787|ischemia|alzheimer's|neurobiology aging
+26500047|heat|alzheimer's|international j. molecular medicine
+25364752|ischemia|alzheimer's|frontiers cell developmental biology
+25206555|ischemia|alzheimer's|neural regeneration research
+21274446|ischemia|alzheimer's|cardiology research practice
+24524075|oxidative_stress|alzheimer's|biomed research international
+24524075|stress|alzheimer's|biomed research international
+26834555|stress|alzheimer's|frontiers molecular neuroscience
+22536549|reactive_oxygen_species|alzheimer's|anatomy & cell biology
+27011630|stress|alzheimer's|annals indian academy neurology
+29067349|stress|alzheimer's|alzheimer's & dementia : translational research & clinical interventions
+20967273|stress|alzheimer's|plos one
+29398615|reactive_oxygen_species|alzheimer's|molecular metabolism
+29398615|ros|alzheimer's|molecular metabolism
+29682502|oxidative_stress|alzheimer's|frontiers cell developmental biology
+29682502|stress|alzheimer's|frontiers cell developmental biology
+25206392|tolerance|alzheimer's|neural regeneration research
+22558216|hyperthermia|alzheimer's|plos one
+24924675|stress|alzheimer's|alzheimer's & dementia : j. alzheimer's association
+24860765|free_radicals|alzheimer's|indian dermatology online j.
+24860765|oxidative_stress|alzheimer's|indian dermatology online j.
+24860765|stress|alzheimer's|indian dermatology online j.
+20552043|oxidative_stress|alzheimer's|frontiers aging neuroscience
+20552043|stress|alzheimer's|frontiers aging neuroscience
+26788243|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+26788243|ros|alzheimer's|oxidative medicine cellular longevity
+26788243|stress|alzheimer's|oxidative medicine cellular longevity
+24612673|oxidation|alzheimer's|neurobiology aging
+24612673|oxidative_stress|alzheimer's|neurobiology aging
+24612673|stress|alzheimer's|neurobiology aging
+24612673|stress|alzheimer's|neurobiology aging
+22332001|oxidative_stress|alzheimer's|j. amino acids
+22332001|stress|alzheimer's|j. amino acids
+22332002|oxidation|alzheimer's|j. amino acids
+22332002|oxidative_stress|alzheimer's|j. amino acids
+22332002|stress|alzheimer's|j. amino acids
+27335169|stress|alzheimer's|american j. physiology - cell physiology
+18823563|atherosclerosis|alzheimer's|bmc biotechnology
+19917131|toxins|alzheimer's|molecular neurodegeneration
+20490276|stress|alzheimer's|j. biomedicine biotechnology
+21738590|stress|alzheimer's|plos one
+29483867|toxin|alzheimer's|frontiers aging neuroscience
+22457786|ischemia|alzheimer's|plos one
+28293166|protein_misfolding|alzheimer's|frontiers neuroscience
+18710920|stress|alzheimer's|the j. cell biology
+27740938|ros|alzheimer's|oncotarget
+21779383|oxidative_stress|alzheimer's|plos one
+21779383|stress|alzheimer's|plos one
+25221640|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+25221640|stress|alzheimer's|oxidative medicine cellular longevity
+25147500|oxidative_stress|alzheimer's|frontiers cellular neuroscience
+25147500|stress|alzheimer's|frontiers cellular neuroscience
+19449461|heat|alzheimer's|j. cellular molecular medicine
+19449461|heat_shock|alzheimer's|j. cellular molecular medicine
+24671940|oxidative_stress|alzheimer's|j. royal society interface
+24671940|stress|alzheimer's|j. royal society interface
+27335804|free_radicals|alzheimer's|bba clinical
+26696693|reactive_oxygen_species|alzheimer's|disease markers
+26696693|stress|alzheimer's|disease markers
+23689277|stress|alzheimer's|cell research
+27891089|oxidative_stress|alzheimer's|frontiers aging neuroscience
+27891089|stress|alzheimer's|frontiers aging neuroscience
+24416244|oxidation|alzheimer's|plos one
+24416244|oxidative_stress|alzheimer's|plos one
+24416244|reactive_oxygen_species|alzheimer's|plos one
+24416244|stress|alzheimer's|plos one
+28479719|oxidative_stress|alzheimer's|pharmacognosy magazine
+28479719|stress|alzheimer's|pharmacognosy magazine
+25644686|oxidative_stress|alzheimer's|redox biology
+25644686|stress|alzheimer's|redox biology
+28567056|oxidative_stress|alzheimer's|international j. analytical chemistry
+28567056|stress|alzheimer's|international j. analytical chemistry
+26713080|oxidative_stress|alzheimer's|experimental neurobiology
+26713080|reactive_oxygen_species|alzheimer's|experimental neurobiology
+26713080|ros|alzheimer's|experimental neurobiology
+26713080|stress|alzheimer's|experimental neurobiology
+26713080|stress|alzheimer's|experimental neurobiology
+18700965|stress|alzheimer's|immunity & ageing : & a
+23298693|stress|alzheimer's|international psychogeriatrics / ipa
+27190655|stress|alzheimer's|neural plasticity
+23476143|tolerance|alzheimer's|the scientific world j.
+24282556|oxidative_stress|alzheimer's|plos one
+24282556|stress|alzheimer's|plos one
+29100334|radiation|alzheimer's|oncotarget
+29100334|reactive_oxygen_species|alzheimer's|oncotarget
+29100334|ros|alzheimer's|oncotarget
+17947327|reactive_oxygen_species|alzheimer's|nucleic acids research
+17947327|ros|alzheimer's|nucleic acids research
+28702365|oxidative_stress|alzheimer's|bba clinical
+28702365|stress|alzheimer's|bba clinical
+26457896|toxin|alzheimer's|plos one
+25036103|stress|alzheimer's|plos one
+21249229|oxidative_stress|alzheimer's|plos one
+21249229|stress|alzheimer's|plos one
+21949909|free_radicals|alzheimer's|international j. alzheimer's disease
+26236426|heat|alzheimer's|oxidative medicine cellular longevity
+26236426|heat_shock|alzheimer's|oxidative medicine cellular longevity
+26236426|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+26236426|ros|alzheimer's|oxidative medicine cellular longevity
+26236426|stress|alzheimer's|oxidative medicine cellular longevity
+28401650|stress|alzheimer's|aging cell
+28154522|reactive_oxygen_species|alzheimer's|frontiers neuroscience
+28154522|ros|alzheimer's|frontiers neuroscience
+25673330|oxidative_stress|alzheimer's|open biology
+25673330|stress|alzheimer's|open biology
+25880086|hypoxia|alzheimer's|cell death & disease
+25880086|stress|alzheimer's|cell death & disease
+21386853|hypoxia|alzheimer's|j. cerebral blood flow & metabolism
+28810593|atherosclerosis|alzheimer's|experimental therapeutic medicine
+22203843|oxidative_stress|alzheimer's|current gerontology geriatrics research
+22203843|stress|alzheimer's|current gerontology geriatrics research
+22606286|oxidative_stress|alzheimer's|plos one
+22606286|stress|alzheimer's|plos one
+26881039|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+26881039|stress|alzheimer's|oxidative medicine cellular longevity
+28638409|reactive_oxygen_species|alzheimer's|international j. endocrinology
+24450635|oxidative_stress|alzheimer's|biochemical society transactions
+24450635|stress|alzheimer's|biochemical society transactions
+24868314|free_radicals|alzheimer's|oxidative medicine cellular longevity
+24868314|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+24868314|stress|alzheimer's|oxidative medicine cellular longevity
+24868314|stress|alzheimer's|oxidative medicine cellular longevity
+22811764|stress|alzheimer's|oxidative medicine cellular longevity
+27015117|oxidative_stress|alzheimer's|oncotarget
+27015117|stress|alzheimer's|oncotarget
+24363627|stress|alzheimer's|the scientific world j.
+29181125|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+28484363|heat|alzheimer's|frontiers neuroscience
+28484363|heat_shock|alzheimer's|frontiers neuroscience
+25093162|ros|alzheimer's|biomed research international
+26035384|oxidative_stress|alzheimer's|disease models & mechanisms
+26035384|stress|alzheimer's|disease models & mechanisms
+19750024|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+19750024|stress|alzheimer's|oxidative medicine cellular longevity
+23675346|hypoxia|alzheimer's|frontiers aging neuroscience
+23675346|oxidative_stress|alzheimer's|frontiers aging neuroscience
+23675346|reactive_oxygen_species|alzheimer's|frontiers aging neuroscience
+23675346|ros|alzheimer's|frontiers aging neuroscience
+23675346|stress|alzheimer's|frontiers aging neuroscience
+15679924|stress|alzheimer's|immunity & ageing : & a
+27064956|stress|alzheimer's|frontiers neuroscience
+25317153|oxidative_stress|alzheimer's|neural regeneration research
+25317153|stress|alzheimer's|neural regeneration research
+27895577|oxidative_stress|alzheimer's|frontiers aging neuroscience
+27895577|stress|alzheimer's|frontiers aging neuroscience
+28180083|radiation|alzheimer's|neuroimage : clinical
+22540007|oxidation|alzheimer's|plos one
+22540007|oxidative_stress|alzheimer's|plos one
+22540007|reactive_oxygen_species|alzheimer's|plos one
+22540007|stress|alzheimer's|plos one
+26251825|saline|alzheimer's|genomics data
+24802026|oxidation|alzheimer's|plos one
+28808138|stress|alzheimer's|biology open
+29089974|oxidative_stress|alzheimer's|neural regeneration research
+29089974|stress|alzheimer's|neural regeneration research
+24683436|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+24683436|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+24683436|ros|alzheimer's|oxidative medicine cellular longevity
+24683436|stress|alzheimer's|oxidative medicine cellular longevity
+26725888|oxidative_stress|alzheimer's|current neuropharmacology
+26725888|stress|alzheimer's|current neuropharmacology
+24624334|oxidative_stress|alzheimer's|redox biology
+24624334|stress|alzheimer's|redox biology
+19558683|reactive_oxygen_species|alzheimer's|molecular neurodegeneration
+25009690|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+25009690|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+25009690|ros|alzheimer's|oxidative medicine cellular longevity
+25009690|stress|alzheimer's|oxidative medicine cellular longevity
+26086964|toxin|alzheimer's|cell death & disease
+22482078|oxidative_stress|alzheimer's|international j. alzheimer's disease
+22482078|stress|alzheimer's|international j. alzheimer's disease
+26090071|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+27752476|stress|alzheimer's|bba clinical
+25100957|saline|alzheimer's|frontiers behavioral neuroscience
+25100957|saline|alzheimer's|frontiers behavioral neuroscience
+26411769|reactive_oxygen_species|alzheimer's|current neuropharmacology
+21251328|oxidation|alzheimer's|alzheimer's research & therapy
+21251328|oxidation|alzheimer's|alzheimer's research & therapy
+20205886|stress|alzheimer's|immunity & ageing : & a
+28489589|reactive_oxygen_species|alzheimer's|oncotarget
+28489589|stress|alzheimer's|oncotarget
+25050360|oxidative_stress|alzheimer's|biomed research international
+25050360|stress|alzheimer's|biomed research international
+21448434|oxidation|alzheimer's|plos one
+28626387|oxidative_stress|alzheimer's|frontiers neuroscience
+28626387|ros|alzheimer's|frontiers neuroscience
+28626387|stress|alzheimer's|frontiers neuroscience
+28420962|protein_misfolding|alzheimer's|frontiers molecular neuroscience
+28420962|stress|alzheimer's|frontiers molecular neuroscience
+28424619|protein_misfolding|alzheimer's|frontiers pharmacology
+24421757|reactive_oxygen_species|alzheimer's|frontiers cellular neuroscience
+26075266|toxins|alzheimer's|biomed research international
+22832349|hypoxia|alzheimer's|translational psychiatry
+25695915|protein_misfolding|alzheimer's|prion
+25695915|stress|alzheimer's|prion
+24595404|reactive_oxygen_species|alzheimer's|plos one
+29515860|oxidation|alzheimer's|royal society open science
+29515860|oxidative_stress|alzheimer's|royal society open science
+29515860|stress|alzheimer's|royal society open science
+25815110|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+25815110|stress|alzheimer's|oxidative medicine cellular longevity
+27153555|carbonylation|alzheimer's|oncotarget
+23690846|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+24652321|stress|alzheimers|brazilian j. medical biological research
+26858770|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+26858770|ros|alzheimer's|evidence-based complementary alternative medicine : ecam
+26858770|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+21702896|oxidative_stress|alzheimer's|chinese medicine
+21702896|stress|alzheimer's|chinese medicine
+20725635|oxidative_stress|alzheimer's|frontiers aging neuroscience
+20725635|stress|alzheimer's|frontiers aging neuroscience
+24669288|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+24669288|stress|alzheimer's|oxidative medicine cellular longevity
+28053619|oxidative_stress|alzheimer's|laboratory animal research
+28053619|stress|alzheimer's|laboratory animal research
+23766857|oxidation|alzheimer's|oxidative medicine cellular longevity
+23766857|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+23766857|stress|alzheimer's|oxidative medicine cellular longevity
+22545043|oxidative_stress|alzheimer's|current gerontology geriatrics research
+22545043|stress|alzheimer's|current gerontology geriatrics research
+24983737|oxidative_stress|alzheimer's|plos one
+24983737|stress|alzheimer's|plos one
+28264587|reactive_oxygen_species|alzheimer's|antioxidants & redox signaling
+28264587|ros|alzheimer's|antioxidants & redox signaling
+25559750|ischaemia|alzheimer's|neuropathology applied neurobiology
+26697495|stress|alzheimer's|biomed research international
+18764939|stress|alzheimer's|molecular neurodegeneration
+22833725|ros|alzheimer's|frontiers physiology
+28066141|reactive_oxygen_species|alzheimer's|the korean j. physiology & pharmacology : official j. korean physiological society korean society pharmacology
+28066141|ros|alzheimer's|the korean j. physiology & pharmacology : official j. korean physiological society korean society pharmacology
+27901000|stress|alzheimer's|chinese medical j.
+22018032|reactive_oxygen_species|alzheimer's|bmc complementary alternative medicine
+28969063|stress|alzheimer's|oncotarget
+20463975|stress|alzheimer's|plos one
+20463975|stress|alzheimer's|plos one
+20463975|unfolded_protein_response|alzheimer's|plos one
+20463975|unfolded_protein_response|alzheimer's|plos one
+21048902|stress|alzheimer's|frontiers aging neuroscience
+24737944|oxidative_stress|alzheimer's|experimental neurobiology
+24737944|reactive_oxygen_species|alzheimer's|experimental neurobiology
+24737944|stress|alzheimer's|experimental neurobiology
+27227069|cold|alzheimer's|temperature: multidisciplinary biomedical j.
+27227069|cold|alzheimer's|temperature: multidisciplinary biomedical j.
+21779331|stress|alzheimer's|plos one
+22805236|ischaemia|alzheimer's|j. cellular molecular medicine
+22805236|oxidative_stress|alzheimer's|j. cellular molecular medicine
+22805236|stress|alzheimer's|j. cellular molecular medicine
+25552918|oxidative_stress|alzheimer's|international j. medical sciences
+25552918|stress|alzheimer's|international j. medical sciences
+29201196|reactive_oxygen_species|alzheimer's|experimental therapeutic medicine
+29201196|stress|alzheimer's|experimental therapeutic medicine
+20948726|oxidative_stress|alzheimer's|f1000 medicine reports
+20948726|stress|alzheimer's|f1000 medicine reports
+29163138|stress|alzheimer's|frontiers aging neuroscience
+29285052|heat|alzheimer's|experimental therapeutic medicine
+29285052|heat_shock|alzheimer's|experimental therapeutic medicine
+21738672|stress|alzheimer's|plos one
+11222629|oxidation|alzheimer's|the j. general physiology
+20856879|ischemia|alzheimer's|plos one
+20927385|oxidative_stress|alzheimer's|plos one
+20927385|stress|alzheimer's|plos one
+29576854|carbonylation|alzheimer's|oxidative medicine cellular longevity
+29576854|radiation|alzheimer's|oxidative medicine cellular longevity
+29576854|ros|alzheimer's|oxidative medicine cellular longevity
+29576854|ros|alzheimer's|oxidative medicine cellular longevity
+15882473|free_radicals|alzheimer's|bmc neuroscience
+25147790|heat|alzheimer's|biomed research international
+25147790|heat_shock|alzheimer's|biomed research international
+26941889|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+26941889|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+26941889|stress|alzheimer's|oxidative medicine cellular longevity
+21379584|heat|alzheimer's|plos one
+21379584|heat_shock|alzheimer's|plos one
+21379584|protein_misfolding|alzheimer's|plos one
+25206513|ischemia|alzheimer's|neural regeneration research
+22262948|stress|alzheimer's|the scientific world j.
+28428740|protein_misfolding|alzheimer's|frontiers neuroscience
+21629716|oxidative_stress|alzheimer's|international j. alzheimer's disease
+21629716|stress|alzheimer's|international j. alzheimer's disease
+23983897|free_radicals|alzheimer's|oxidative medicine cellular longevity
+23983897|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+23983897|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+23983897|stress|alzheimer's|oxidative medicine cellular longevity
+27382355|stress|alzheimer's|the korean j. physiology & pharmacology : official j. korean physiological society korean society pharmacology
+22761618|stress|alzheimer's|international j. cell biology
+26394692|tolerance|alzheimer's|nature communications
+22384126|oxidative_stress|alzheimer's|plos one
+22384126|stress|alzheimer's|plos one
+22384126|tolerance|alzheimer's|plos one
+22350618|stress|alzheimer's|molecular neurobiology
+29197070|free_radicals|alzheimer's|febs letters
+29197070|oxidative_stress|alzheimer's|febs letters
+29197070|stress|alzheimer's|febs letters
+17579710|oxidative_stress|alzheimer's|plos one
+17579710|reactive_oxygen_species|alzheimer's|plos one
+17579710|stress|alzheimer's|plos one
+21331330|protein_misfolding|alzheimer's|international j. alzheimer's disease
+21633502|atherosclerosis|alzheimer's|plos one
+15679944|heat|alzheimers|cerebrospinal fluid research
+15679944|heat_shock|alzheimers|cerebrospinal fluid research
+28758146|stress|alzheimer's|alzheimer's & dementia : translational research & clinical interventions
+22182734|atherosclerosis|alzheimer's|alzheimer's research & therapy
+29302258|stress|alzheimer's|frontiers neuroscience
+29302258|stress|alzheimer's|frontiers neuroscience
+28811866|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+28811866|stress|alzheimer's|oxidative medicine cellular longevity
+24263098|reactive_oxygen_species|alzheimer's|cell death & disease
+24263098|ros|alzheimer's|cell death & disease
+24357806|reactive_oxygen_species|alzheimer's|cell death & disease
+22719765|reactive_oxygen_species|alzheimer's|international j. cell biology
+22719765|ros|alzheimer's|international j. cell biology
+22719765|ros|alzheimer's|international j. cell biology
+19759867|oxidative_stress|alzheimer's|bioinformation
+19759867|stress|alzheimer's|bioinformation
+21545753|reactive_oxygen_species|alzheimer's|alzheimer's research & therapy
+27298742|stress|alzheimer's|neural plasticity
+24795557|saline|alzheimer's|frontiers neuroscience
+25206774|hypoxia|alzheimer's|neural regeneration research
+25206774|hypoxia|alzheimer's|neural regeneration research
+25206774|oxidative_stress|alzheimer's|neural regeneration research
+25206774|oxidative_stress|alzheimer's|neural regeneration research
+25206774|stress|alzheimer's|neural regeneration research
+28140404|pollutants|alzheimer's|translational psychiatry
+22038282|stress|alzheimer's|cell stress & chaperones
+22038282|unfolded_protein_response|alzheimer's|cell stress & chaperones
+26535109|stress|alzheimer's|f1000research
+24900975|oxidative_stress|alzheimer's|biomed research international
+24900975|stress|alzheimer's|biomed research international
+20098691|saline|alzheimer's|plos one
+24551770|oxidative_stress|alzheimer's|international j. molecular cellular medicine
+24551770|stress|alzheimer's|international j. molecular cellular medicine
+22454689|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+25126942|stress|alzheimer's|plos one
+28408965|heat|alzheimer's|the japanese dental science review
+15123740|ischemia|alzheimer's|the j. cell biology
+26176913|stress|alzheimer's|nature
+25127866|stress|alzheimer's|aging (albany ny)
+22185664|heat|alzheimer's|medical gas research
+22185664|heat_shock|alzheimer's|medical gas research
+22185664|hypoxia|alzheimer's|medical gas research
+22185664|oxidation|alzheimer's|medical gas research
+22185664|oxidative_stress|alzheimer's|medical gas research
+22185664|stress|alzheimer's|medical gas research
+28695014|oxidation|alzheimer's|neural plasticity
+29228711|pollutant|alzheimer's|oncotarget
+29228711|stress|alzheimer's|oncotarget
+28332351|oxidative_stress|alzheimer's|yonsei medical j.
+28332351|stress|alzheimer's|yonsei medical j.
+28332351|stress|alzheimer's|yonsei medical j.
+26989422|ischemia|alzheimer's|stem cells international
+21499478|atherosclerosis|alzheimer's|the libyan j. medicine
+21499478|reactive_oxygen_species|alzheimer's|the libyan j. medicine
+21499478|stress|alzheimer's|the libyan j. medicine
+22187547|hypoxia|alzheimer's|dementia geriatric cognitive disorders extra
+25685255|heat|alzheimer's|oxidative medicine cellular longevity
+25685255|heat_shock|alzheimer's|oxidative medicine cellular longevity
+26491656|oxidation|alzheimer's|biomed research international
+22701754|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+22701754|stress|alzheimer's|oxidative medicine cellular longevity
+22701755|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+22701755|stress|alzheimer's|oxidative medicine cellular longevity
+25600696|carbonylation|alzheimer's|redox biology
+25600696|ischemia|alzheimer's|redox biology
+25600696|oxidation|alzheimer's|redox biology
+25600696|stress|alzheimer's|redox biology
+28437250|radiation|alzheimer's|aging (albany ny)
+28437250|radiation|alzheimer's|aging (albany ny)
+24743743|reactive_oxygen_species|alzheimer's|cell death & disease
+24743743|ros|alzheimer's|cell death & disease
+24743743|stress|alzheimer's|cell death & disease
+28990726|stress|alzheimer's|j. cellular molecular medicine
+25821476|oxidation|alzheimer's|evidence-based complementary alternative medicine : ecam
+22242180|oxidative_stress|alzheimer's|plos one
+22242180|stress|alzheimer's|plos one
+17241479|protein_misfolding|alzheimer's|bmc neuroscience
+22701485|oxidative_stress|alzheimer's|international j. cell biology
+22701485|reactive_oxygen_species|alzheimer's|international j. cell biology
+22701485|ros|alzheimer's|international j. cell biology
+22701485|ros|alzheimer's|international j. cell biology
+22701485|stress|alzheimer's|international j. cell biology
+22701485|unfolded_protein_response|alzheimer's|international j. cell biology
+28657440|heat|alzheimer's|prion
+22661928|oxidative_stress|alzheimer's|frontiers cellular neuroscience
+22661928|stress|alzheimer's|frontiers cellular neuroscience
+25973140|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+25973140|stress|alzheimer's|oxidative medicine cellular longevity
+24204258|protein_misfolding|alzheimer's|plos pathogens
+27123241|free_radicals|alzheimer's|biomedical reports
+27123241|oxidative_stress|alzheimer's|biomedical reports
+27123241|reactive_oxygen_species|alzheimer's|biomedical reports
+27123241|ros|alzheimer's|biomedical reports
+27123241|stress|alzheimer's|biomedical reports
+22475015|oxidative_stress|alzheimer's|medical gas research
+22475015|radiation|alzheimer's|medical gas research
+22475015|radiation|alzheimer's|medical gas research
+22475015|stress|alzheimer's|medical gas research
+22475015|stress|alzheimer's|medical gas research
+19705038|hypoxia|alzheimer's|the scientific world j.
+19705038|hypoxia|alzheimer's|the scientific world j.
+19705038|reactive_oxygen_species|alzheimer's|the scientific world j.
+19705038|reactive_oxygen_species|alzheimer's|the scientific world j.
+19705038|ros|alzheimer's|the scientific world j.
+19705038|ros|alzheimer's|the scientific world j.
+24627850|oxidative_stress|alzheimer's|advanced biomedical research
+24627850|stress|alzheimer's|advanced biomedical research
+27097852|endotoxemia|alzheimer's|nature communications
+28469639|oxidative_stress|alzheimer's|neural regeneration research
+28469639|stress|alzheimer's|neural regeneration research
+24818601|hypoxia|alzheimer's|plos one
+27386059|oxidative_stress|alzheimer's|caspian j. internal medicine
+27386059|stress|alzheimer's|caspian j. internal medicine
+25538551|oxidation|alzheimer's|frontiers neuroscience
+25538551|stress|alzheimer's|frontiers neuroscience
+28107493|radiation|alzheimer's|plos one
+23028394|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+23028394|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+27486021|oxidative_stress|alzheimer's|molecular medicine reports
+27486021|stress|alzheimer's|molecular medicine reports
+24864161|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+24864161|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+28250796|oxidative_stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+28250796|stress|alzheimer's|evidence-based complementary alternative medicine : ecam
+16004729|oxidation|alzheimer's|human genomics
+16004729|oxidative_stress|alzheimer's|human genomics
+16004729|stress|alzheimer's|human genomics
+26937356|oxidative_stress|alzheimer's|applied & translational genomics
+26937356|ros|alzheimer's|applied & translational genomics
+26937356|stress|alzheimer's|applied & translational genomics
+26649137|oxidative_stress|alzheimer's|oxidative medicine cellular longevity
+26649137|reactive_oxygen_species|alzheimer's|oxidative medicine cellular longevity
+26649137|stress|alzheimer's|oxidative medicine cellular longevity
+28413470|saline|alzheimer's|experimental therapeutic medicine
+21179577|oxidative_stress|alzheimer's|plos one
+21179577|reactive_oxygen_species|alzheimer's|plos one
+21179577|ros|alzheimer's|plos one
+21179577|stress|alzheimer's|plos one
+27563291|pollutants|alzheimer's|frontiers pharmacology
+28798664|stress|alzheimer's|frontiers molecular neuroscience
+10895977|stress|alzheimer's|j. korean medical science
+26106644|radiation|alzheimer's|the scientific world j.
+26106644|reactive_nitrogen_species|alzheimer's|the scientific world j.
+25165879|metabolic_stress|alzheimer's|cell death & disease
+25165879|stress|alzheimer's|cell death & disease
+25165879|unfolded_protein_response|alzheimer's|cell death & disease
+25238069|oxidative_stress|alzheimer's|plos one
+25238069|ros|alzheimer's|plos one
+25238069|ros|alzheimer's|plos one
+25238069|stress|alzheimer's|plos one
+26171115|stress|alzheimer's|oxidative medicine cellular longevity
+20836858|oxidation|alzheimer's|bmc ophthalmology
+26934328|oxidative_stress|alzheimer's|oncotarget
+26934328|stress|alzheimer's|oncotarget
+26934328|stress|alzheimer's|oncotarget
+26934328|stress_tolerance|alzheimer's|oncotarget
+26934328|stress_tolerance|alzheimer's|oncotarget
+26934328|tolerance|alzheimer's|oncotarget
+26934328|unfolded_protein_response|alzheimer's|oncotarget
+29026707|reactive_oxygen_species|alzheimer's|chonnam medical j.
+19247475|stress|alzheimer's|plos one
+19247475|stress|alzheimer's|plos one
+24751678|oxidative_stress|alzheimer's|plos one
+24751678|stress|alzheimer's|plos one
+27148685|stress|alzheimer's|cell death & disease
+27148685|toxin|alzheimer's|cell death & disease

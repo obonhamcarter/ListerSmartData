@@ -1,0 +1,3 @@
+25013355|ROS|lactic_acid|acidosis
+27796318|ROS|lactic_acid|apoptosis
+20306235|ROS|methionine_sulfoxide|aging

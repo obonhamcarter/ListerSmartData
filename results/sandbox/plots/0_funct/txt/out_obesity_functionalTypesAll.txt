@@ -1,0 +1,11 @@
+22363472|lactic_acid|obesity|heat
+26448611|methionine_sulfoxide|obesity|oxidation
+26448611|methionine_sulfoxide|obesity|oxidative_stress
+26448611|methionine_sulfoxide|obesity|stress
+27051079|thyroxine|obesity|oxidative_stress
+27051079|thyroxine|obesity|stress
+27051079|triiodothyronine|obesity|oxidative_stress
+27051079|triiodothyronine|obesity|stress
+27409075|lactic_acid|obesity|pollutants
+27409075|lactic_acid|obesity|stress
+28348560|lactic_acid|obesity|endotoxemia

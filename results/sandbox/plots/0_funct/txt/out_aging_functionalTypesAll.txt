@@ -1,0 +1,13 @@
+13630940|thyroxine|aging|oxidation
+19461988|methionine_sulfoxide|aging|oxidative_stress
+19461988|methionine_sulfoxide|aging|stress
+20306235|methionine_sulfoxide|aging|oxidation
+20306235|methionine_sulfoxide|aging|reactive_oxygen_species
+20306235|methionine_sulfoxide|aging|unfolded_protein_response
+21079812|methionine_sulfoxide|aging|oxidative_stress
+21079812|methionine_sulfoxide|aging|stress
+24098680|triiodothyronine|aging|tolerance
+27199942|lactic_acid|aging|stress
+27199942|lactic_acid|aging|tolerance
+27409075|lactic_acid|aging|pollutants
+27409075|lactic_acid|aging|stress

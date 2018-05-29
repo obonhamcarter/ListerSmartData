@@ -1,0 +1,2 @@
+20306235|reactive_oxygen_species|methionine_sulfoxide|aging
+27796318|reactive_oxygen_species|lactic_acid|apoptosis

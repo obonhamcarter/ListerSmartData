@@ -1,0 +1,2 @@
+24747529|radiation|citrulline|apoptosis
+24763056|radiation|phosphotyrosine|ataxia

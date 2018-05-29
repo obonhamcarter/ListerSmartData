@@ -1,0 +1,13 @@
+26631019|radiation|phlebitis|environmental_science_pollution_research_international
+26631019|radiation|phlebitis|environmental_science_pollution_research_international
+19680474|saline|phlebitis|international_j._medical_sciences
+19680474|saline|phlebitis|international_j._medical_sciences
+494668|stress|phlebitis|the_yale_j._biology_medicine
+494668|stress|phlebitis|the_yale_j._biology_medicine
+494668|stress|phlebitis|the_yale_j._biology_medicine
+26257807|saline|phlebitis|iranian_j._nursing_midwifery_research
+18695742|saline|phlebitis|international_j._medical_sciences
+9823975|saline|phlebitis|british_j._cancer
+8932353|saline|phlebitis|british_j._cancer
+8932353|tolerance|phlebitis|british_j._cancer
+27082573|saline|phlebitis|medicine

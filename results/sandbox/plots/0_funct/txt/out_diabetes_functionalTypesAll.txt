@@ -1,0 +1,17 @@
+19488614|asymmetric_dimethylarginine|diabetes|atherogenic
+19488614|asymmetric_dimethylarginine|diabetes|atherosclerosis
+22463715|thyroxine|diabetes|oxidative_stress
+22463715|thyroxine|diabetes|stress
+23160531|citrulline|diabetes|oxidation
+23300647|phosphotyrosine|diabetes|oxidative_stress
+23300647|phosphotyrosine|diabetes|stress
+23443106|symmetric_dimethylarginine|diabetes|oxidative_stress
+23443106|symmetric_dimethylarginine|diabetes|stress
+23826148|citrulline|diabetes|atherosclerosis
+24918756|asymmetric_dimethylarginine|diabetes|stress
+25277744|thyroxine|diabetes|tolerance
+25277744|triiodothyronine|diabetes|tolerance
+27409075|lactic_acid|diabetes|pollutants
+27409075|lactic_acid|diabetes|stress
+27929071|methionine_sulfoxide|diabetes|stress
+28123936|citrulline|diabetes|tolerance

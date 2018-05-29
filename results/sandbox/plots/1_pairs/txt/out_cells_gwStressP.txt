@@ -1,0 +1,10 @@
+metabolic_stress___reactive_oxygen_species|cells|2
+high-energy_radiation___reactive_oxygen_species|cells|2
+high-energy_radiation___oxidative_stress|cells|2
+high-energy_radiation___metabolic_stress|cells|2
+oxidative_stress___reactive_oxygen_species|cells|2
+hyperthermia___metabolic_stress|cells|2
+high-energy_radiation___hypoxia|cells|2
+hyperthermia___oxidative_stress|cells|2
+hyperthermia___hypoxia|cells|2
+hypoxia___metabolic_stress|cells|2

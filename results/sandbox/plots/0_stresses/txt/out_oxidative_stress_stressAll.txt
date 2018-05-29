@@ -1,0 +1,13 @@
+19461988|oxidative_stress|methionine_sulfoxide|aging
+21079812|oxidative_stress|methionine_sulfoxide|aging
+22242180|oxidative_stress|nitrated_tyrosine|alzheimers
+22463715|oxidative_stress|thyroxine|diabetes
+23300647|oxidative_stress|phosphotyrosine|diabetes
+23443106|oxidative_stress|symmetric_dimethylarginine|diabetes
+23812247|oxidative_stress|asymmetric_dimethylarginine|heart_disease
+26448611|oxidative_stress|methionine_sulfoxide|obesity
+26875981|oxidative_stress|methionine_sulfoxide|apoptosis
+27051079|oxidative_stress|thyroxine|obesity
+27051079|oxidative_stress|triiodothyronine|obesity
+27479314|oxidative_stress|asymmetric_dimethylarginine|asthma
+28566717|oxidative_stress|methionine_sulfoxide|emphysema

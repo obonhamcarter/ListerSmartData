@@ -1,0 +1,2 @@
+~/Desktop/toGraph4v.py scaled_alz_functional_small.txt a
+

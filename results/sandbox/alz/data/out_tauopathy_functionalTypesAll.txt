@@ -1,0 +1,11 @@
+23155407|saline|tauopathy|plos_one
+28704727|oxidative_stress|tauopathy|redox_biology
+28704727|stress|tauopathy|redox_biology
+22292029|heat|tauopathy|plos_one
+29263362|oxidative_stress|tauopathy|nature_communications
+29263362|stress|tauopathy|nature_communications
+28367114|stress|tauopathy|frontiers_molecular_neuroscience
+28808138|stress|tauopathy|biology_open
+26042033|ischemia|tauopathy|frontiers_aging_neuroscience
+26176913|stress|tauopathy|nature
+28721361|stress|tauopathy|eneuro
